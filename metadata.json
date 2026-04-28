@@ -1,0 +1,6 @@
+{
+  "name": "GPT Anchor Orchestrator",
+  "description": "An autonomous AI orchestrator with deterministic safety guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
